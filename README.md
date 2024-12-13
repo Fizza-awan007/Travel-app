@@ -1,8 +1,13 @@
-# React + Vite
+My Travel Journal ✈️🌍
+My Travel Journal is a simple React-based web application that showcases a visually appealing travel diary. Users can view various travel destinations with key details such as location, travel dates, descriptions, and images.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+🌎 Dynamic Destination Data: Each destination includes its name, location, travel dates, description, and a related image.
+🗺️ Google Maps Integration: Links to Google Maps for easy access to location details.
+🎨 Responsive Design: Styled using CSS for a clean and user-friendly layout.
+⚡ Powered by React: Built with Vite for fast performance and modern development.
+Tech Stack
+Frontend: React (with functional components)
+Styling: CSS
+Build Tool: Vite
+Deployment: Local server 
